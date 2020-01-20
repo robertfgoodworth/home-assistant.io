@@ -100,6 +100,7 @@ For example: for model `UN55NU7100`, the `UN55` would mean it's an LED, North Am
 - KS8000 (port must be set to 8001)
 - KS8005 (port must be set to 8001)
 - KS8500 (port must be set to 8001)
+- KS9005  (auto discovery ok)
 - KU6020 (port must be set to 8001)
 - KU6100 (port must be set to 8001)
 - KU6290 (port must be set to 8001)
